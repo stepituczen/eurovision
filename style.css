@@ -1,0 +1,47 @@
+body{
+    background-image: url("feu.jpg");
+    background-size: cover;
+    margin: 0;
+    background-color: black;
+    width: 100%;
+}
+#header{
+    padding: 0%;
+    box-sizing: border-box;
+    margin: auto;
+    background-color: white;
+    color: rgb(0, 0, 0);
+    /*szerokość*/
+    width: 60%;
+    /*wysokość*/
+    height: 120px;
+}
+#article{
+    padding: 0%;
+    box-sizing: border-box;
+    margin: auto;
+    background-color: grey;
+    color: darkgrey;
+    /*szerokość*/
+    width: 60%;
+    /*wysokość*/
+    height: 1000px;
+}
+#footer{
+    padding: 0%;
+    box-sizing: border-box;
+    margin: auto;
+     background-color: rgb(236, 251, 66);
+     color: rgb(196, 46, 46);
+    /*szerokość*/
+    width: 60%;
+    /*wysokość*/
+    height: 900px;
+}
+#footerlogo{
+    padding: 200px;
+    /*szerokość*/
+    width: 60%;
+    /*wysokość*/
+    height: 500px;
+}
